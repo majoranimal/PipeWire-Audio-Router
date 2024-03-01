@@ -1,6 +1,8 @@
 # PipeWire-Audio-Router
 A script to simply the creation of virtual cables and routing of sound between apps and devices.
 
+This script was created as an attempt to use my motherboards "pro audio" to control my speakers, in an attempt to do that I got sidetracked and made this.
+
 # Usage
 ```
 -i --input:
@@ -31,4 +33,5 @@ A script to simply the creation of virtual cables and routing of sound between a
 
 ## Planned Features 
 - Persistence using systemctl
-- Profiles to store settings 
+- Profiles to store settings
+- Ability to create a virtual audio input linked to an existing output device (The reason this script was made)
