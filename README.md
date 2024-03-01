@@ -2,7 +2,7 @@
 A script to simply the creation of virtual cables and routing of sound between apps and devices.
 
 # Usage
-Commands:
+Commands:```
 -i --input:
 	Sets the virtual cable input name, application output name or physical device name.
 
@@ -27,3 +27,4 @@ Commands:
 
 -h --help:
 	Shows this help dialogue"
+```
