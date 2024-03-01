@@ -28,3 +28,7 @@ A script to simply the creation of virtual cables and routing of sound between a
 -h --help:
 	Shows this help dialogue
 ```
+
+## Planned Features 
+- Persistence using systemctl
+- Profiles to store settings 
